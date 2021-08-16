@@ -6,7 +6,9 @@ The presets may come with its installer or in a zip form for manual extraction a
 
 Our presets are designed to be use in viper apk or our own custome viper apk the Storm Revolution
 Each Preset releasd includes specific viper settings (preset) and IRS Convolver (Kernel)
-Downloading our Presets means you have aggreed to ALL our terms, Please read the terms https://github.com/Stormproaudio/Presets/blob/main/Terms
+Downloading our Presets means you have aggreed to ALL our terms and conditions
+
+Please read the terms https://github.com/Stormproaudio/Presets/blob/main/Terms
 
 
 
