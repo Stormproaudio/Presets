@@ -9,7 +9,7 @@ Each Preset releasd includes specific viper settings (preset) and IRS Convolver 
 Downloading our Presets means you have aggreed to ALL our terms stated here.
 
 TERMS AND CONDITIONS OF USE
-1. You shall not seperate these presets and use them seperately without using its intended original Vuper Preset setting
+1. You shall not seperate these presets and use them seperately without using its intended original Viper Preset settings
 2. You shall not extract, repackaged, compile our presets and use them seperately in your own viper apk
 3. You shall not share our presets offline or online and distribute them without prior permission from us
 4. You shall not distribute our presets for profit or make claims of being the original developer
