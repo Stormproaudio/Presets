@@ -11,5 +11,8 @@ Downloading our Presets means you have aggreed to ALL our terms and conditions
 Please read the terms https://github.com/Stormproaudio/Presets/blob/main/Terms And also 
 read the Licensing aggreement https://github.com/Stormproaudio/Presets/blob/main/LICENSE
 
+WARNING : DO NOT SHARE OUR PRESETS IN ANY PUBLIC FORUM OR GROUP CHAT OR MEDIA SOCIAL SITE WITH YOUR OWN LINK
+USE OUR GITHUB PAGES LINKS  https://github.com/Stormproaudio/Presets 
 
+SHARING OUR PRESETS USING OTHER LINKS BESIDE OUR GITHUB PAGES IS NOT PERMITTED !  
 
