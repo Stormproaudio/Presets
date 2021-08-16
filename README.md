@@ -8,7 +8,8 @@ Our presets are designed to be use in viper apk or our own custome viper apk the
 Each Preset releasd includes specific viper settings (preset) and IRS Convolver (Kernel)
 Downloading our Presets means you have aggreed to ALL our terms and conditions
 
-Please read the terms https://github.com/Stormproaudio/Presets/blob/main/Terms
+Please read the terms https://github.com/Stormproaudio/Presets/blob/main/Terms And also 
+read the Licensing aggreement https://github.com/Stormproaudio/Presets/blob/main/LICENSE
 
 
 
